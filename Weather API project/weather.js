@@ -1,6 +1,6 @@
 class Weather {
     constructor (state, country) {
-        this.apiKey = '0a8cebb64361c4c657c1fb4405c323fd';
+        this.apiKey = Your_OpenWeatherAPIKey;
         this.state = state;
         this.country = country;
     }
